@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Parkash</h1>
 <h3 align="center">A passionate Web Pen-tester from India</h3>
 
-<img src="https://media.giphy.com/media/XDVNmIREHVTfsBowCT/giphy.gif" alt="Naruto and Sasuke" style="max-width:200px; height:auto;">
+<img src="https://media.giphy.com/media/XDVNmIREHVTfsBowCT/giphy.gif" alt="Naruto and Sasuke" style="max-width:200px; height:auto; align:center;">
 
 
 
