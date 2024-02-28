@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **deepakparkash002@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1KFlQRHSAfe3889KZSiKiT8b_hRczskBoMTZi3cwxki0/edit?usp=sharing](https://docs.google.com/document/d/1KFlQRHSAfe3889KZSiKiT8b_hRczskBoMTZi3cwxki0)
+- 📄 Know about my experiences [Google Docs]()https://docs.google.com/document/u/2/d/e/2PACX-1vREVe9mH-umMnHAgMp24iv0tyJkdDQpEPYK0DGoI7sFTcBace9z_KneGP7eWMXBHG9ku4wponoQSBCF/pub)
 
 - ⚡ Fun fact **Its all about way you think.**
 
