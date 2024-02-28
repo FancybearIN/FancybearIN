@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Deepak Parkash</h1>
 <h3 align="center">A passionate Web Pen-tester from India</h3>
 
+<img src="https://media.giphy.com/media/XDVNmIREHVTfsBowCT/giphy.gif" alt="Naruto and Sasuke" style="max-width:200px; height:auto;">
+
+
+
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fancybearin&label=Profile%20views&color=0e75b6&style=flat" alt="fancybearin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fancybearin" alt="fancybearin" /></a> </p>
@@ -44,4 +52,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fancybearin&show_icons=true&locale=en" alt="fancybearin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fancybearin&" alt="fancybearin" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FancybearIN&theme=radical&hide_border=true&mode=weekly)](https://git.io/streak-stats)
