@@ -3,6 +3,9 @@
 ## About Me
 Hi there! I'm a passionate Junior Penetration Tester exploring the realm of cybersecurity. I thrive on challenges and love to uncover vulnerabilities to make digital spaces safer for everyone.
 
+## Stats
+![FancybearIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=FancybearIN&show_icons=true&theme=radical)
+
 ![Profile Picture](link_to_profile_picture)
 
 ## Social
