@@ -1,7 +1,8 @@
+[![MasterHead]()](your GitHub link)
 <h1 align="center">Hi 👋, I'm Deepak Parkash</h1>
 <h3 align="center">A passionate Web Pen-tester from India</h3>
 
-<img src="https://media.giphy.com/media/XDVNmIREHVTfsBowCT/giphy.gif" alt="Naruto and Sasuke" style="max-width:200px; height:auto; align:center;">
+<br><img src="https://media.giphy.com/media/XDVNmIREHVTfsBowCT/giphy.gif" alt="Naruto and Sasuke" style="max-width:200px; height:auto; align:center;">
 
 
 
@@ -12,7 +13,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fancybearin&label=Profile%20views&color=0e75b6&style=flat" alt="fancybearin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fancybearin" alt="fancybearin" /></a> </p>
+<div style="text-align:center; border: 2px solid #ff6b81; padding: 10px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=fancybearin&theme=radical" alt="fancybearin's trophies"/>
+</div>
+
+
+<br>
 
 <p align="left"> <a href="https://twitter.com/deep07se" target="blank"><img src="https://img.shields.io/twitter/follow/deep07se?logo=twitter&style=for-the-badge" alt="deep07se" /></a> </p>
 
