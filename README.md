@@ -78,6 +78,19 @@
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=FancybearIN&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
+## 📚 My Notes
+
+<p align="center">
+  <a href="https://github.com/FancybearIN/notes">
+    <img src="https://img.shields.io/badge/GitHub-Notes%20Repository-ff6b81?style=for-the-badge&logo=github" alt="Notes Repo Badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/FancybearIN/notes">
+    👉 Check out my **Notes Repository** for pentesting, bug bounty, and research docs 👈
+  </a>
+</p>
 <!-- <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=FancybearIN&theme=redical">
 </p>  -->
